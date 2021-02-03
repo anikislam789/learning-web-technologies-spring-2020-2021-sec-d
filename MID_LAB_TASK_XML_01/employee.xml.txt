@@ -1,0 +1,36 @@
+ <employee>
+ <employee id="1" >
+          <employee_name>
+         <firstname>John</firstname>
+         <lastname>Doe</lastname>
+         </employee_name>
+         <adress>H# 38, R#3, Banani,Dhaka</adress>
+         <department>Sales</department>
+         <salary>$20000<salary>
+         </employee>
+
+ <employee>
+ <employee id="2" >
+          <employee_name>
+         <firstname>Mark </firstname>
+         <lastname>Zukarberg</lastname>
+         </employee_name>
+         <adress>Flat# A/1, H# 20, R#18, Mirpur, Dhaka </adress>
+         <department>Accounts</department>
+         <salary>$12000<salary>
+         </employee>
+
+ <employee>
+ <employee id="2" >
+          <employee_name>
+         <firstname>Ala </firstname>
+         <lastname>voski</lastname>
+         </employee_name>
+         <adress>H# 38, R#3, Motijheel </adress>
+         <department>Human Resource</department>
+         <salary>$30000<salary>
+         </employee>
+  </employee>
+
+
+
